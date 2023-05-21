@@ -1,0 +1,11 @@
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16form\pract16form\bin\Debug\pract16form.exe.config
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16form\pract16form\bin\Debug\pract16form.exe
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16form\pract16form\bin\Debug\pract16form.pdb
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16form\pract16form\obj\Debug\pract16form.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16form\pract16form\obj\Debug\pract16form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16form\pract16form\obj\Debug\pract16form.Form1.resources
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16form\pract16form\obj\Debug\pract16form.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16form\pract16form\obj\Debug\pract16form.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16form\pract16form\obj\Debug\pract16form.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16form\pract16form\obj\Debug\pract16form.exe
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16form\pract16form\obj\Debug\pract16form.pdb

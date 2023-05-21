@@ -1,0 +1,8 @@
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16consol\pract16consol\bin\Debug\pract16consol.exe.config
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16consol\pract16consol\bin\Debug\pract16consol.exe
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16consol\pract16consol\bin\Debug\pract16consol.pdb
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16consol\pract16consol\obj\Debug\pract16consol.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16consol\pract16consol\obj\Debug\pract16consol.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16consol\pract16consol\obj\Debug\pract16consol.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16consol\pract16consol\obj\Debug\pract16consol.exe
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\pract16consol\pract16consol\obj\Debug\pract16consol.pdb
